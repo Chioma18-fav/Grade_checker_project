@@ -15,3 +15,7 @@ It then checks the score against the grading scale and prints the result:
 
 If you enter something that isn't a number, or a number outside 0–100, 
 the program will ask you to try again.
+
+Name: Nwani Favour Chioma
+Matric number: 250382
+Deoartment: Computer science
